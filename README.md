@@ -97,7 +97,9 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 - SAM(Segment Anything Model) 실험 및 mask 생성
 - one-2345 실험
 - dreamgaussian 실험
+- [Instant-ngp](https://github.com/Hyungson/instant-ngp) 실험
 - Code 통합
+- Gradio로 배포
 
 <br>
 
